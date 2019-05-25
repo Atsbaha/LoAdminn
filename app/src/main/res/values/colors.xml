@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<color name="colorPrimary">#3F51B5</color>
+<color name="colorPrimaryDark">#303F9F</color>
+<color name="colorAccent">#FF4081</color>
+
+<color name="datapad_color_background">#010e19</color>
+<color name="datapad_window_background">#010e19</color>
+<color name="datapad_color_primary">#03050e</color>
+<color name="datapad_button_background">#021c31</color>
+<color name="datapad_text_hint">#808679</color>
+
+
+<color name="datapad_background">#010e19</color>
+<color name="datapad_foreground">#00749c</color>
+<color name="datapad_actionbar">#0F2E47</color>
+<color name="datapad_statusbar">#303F9F</color>
+<color name="datapad_accent">#ff8300</color>
+<color name="datapad_button">#021c31</color>
+
+<color name="datapad_text_primary_enabled">#00bfff</color>
+<color name="datapad_text_primary_disabled">#6c8993</color>
+<color name="datapad_text_secondary_enabled">#0084B0</color>
+<color name="datapad_text_secondary_disabled">#4c6067</color>
+<color name="datapad_text_tertiary_enabled">#00b3b3</color>
+<color name="datapad_text_tertiary_disabled">#4c6767</color>
+
+<color name="white">#B2B9B9</color>
+
+</resources>
