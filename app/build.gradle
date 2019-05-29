@@ -43,8 +43,6 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 
-
-
 //    implementation 'com.google.firebase:firebase-core:16.0.9'
     implementation 'com.google.firebase:firebase-auth:17.0.0'
 //    implementation 'com.google.android.gms:play-services-auth:16.0.1'
@@ -57,8 +55,6 @@ dependencies {
     //for yene pay
 //    implementation 'com.github.YenePay:yenepay.sdk.android:0.0.7'
     implementation 'com.google.firebase:firebase-core:16.0.9'
-
-
 
 //    implementation 'com.google.firebase:firebase-messaging:18.0.0'
 //    implementation 'com.google.firebase:firebase-messaging:17.3.4'
