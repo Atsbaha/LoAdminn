@@ -58,8 +58,8 @@ public class UserList extends AppCompatActivity {
                     @Override
                     public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
                         String email=dataSnapshot.child("email").getValue().toString();
-                        String uniquNumber=dataSnapshot.child("ticktNumber").getValue().toString();
-                        String ticketNumber=dataSnapshot.child("uniquqNumber").getValue().toString();
+                        String uniquNumber=dataSnapshot.child("uniquqNumber").getValue().toString();
+                        String ticketNumber=dataSnapshot.child("ticktNumber").getValue().toString();
 
                         edtEmail.setText(email);
                         edtTicketNumber.setText(ticketNumber);
